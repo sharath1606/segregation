@@ -11,7 +11,7 @@ ROOT = root_path.relative_to(Path.cwd())
 MODEL_DIR = ROOT / 'weights'
 DETECTION_MODEL = MODEL_DIR / 'best.pt'
 # Webcam
-WEBCAM_PATH = 0
+WEBCAM_PATH =0
 
 # N stick
 # H battery
